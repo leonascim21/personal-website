@@ -2,7 +2,7 @@
 supertitle: Leonardo Do Nascimento | About and contact
 title: Leonardo Do Nascimento
 subtitle: Miami
-description: I want to make the world more secure, transparent, and safe.
+description: I want to make the world more secure, transparent, and safe
 url: /
 draft: false
 ---

@@ -17,7 +17,7 @@ I am an undergraduate student at Florida State University majoring in Computer S
 
 ### Broadly
 
-I am passionate about exploring the intersection of technology and everyday life, always eager to learn and grow. With a developing foundation in computer science and economics, I embrace challenges and enjoy finding creative solutions to complex problems. My projects, ranging from full-stack development to AI applications, reflect my commitment to continuous learning and innovation. Despite not having a strong foundation initially, my dedication and curiosity drive me to keep improving and contributing to the tech community.
+I am passionate about exploring the intersection of technology and everyday life, always eager to learn and grow. With a developing foundation in computer science and economics, I embrace challenges and enjoy finding creative solutions to complex problems. My projects, ranging from full-stack development to AI applications, reflect my commitment to continuous learning and innovation. My dedication and curiosity drive me to keep improving and contributing to the tech community.
 
 ### Contact
 
